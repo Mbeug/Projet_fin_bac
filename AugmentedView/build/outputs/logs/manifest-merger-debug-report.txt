@@ -1,0 +1,384 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+MERGED from [com.android.support:design:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9fccc17493bf0af029ca8f7f14e4963d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bd327ed63d89645f977abe91502911d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ac66ef73db7ae390d699d78a3f39dce0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/b6f3411655d29c9c2c2c8724afa8bba8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/de857cb22699d753daa81993524a01a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/480188cd77fddeb19cfff51551064654/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a4a59d57af174c14b80fbccaa2b9eb3e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d28589115c25a62ca7c0dda0ad19d24e/AndroidManifest.xml:17:1-22:12
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:2:1-27:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72241c03225791d3441fa4d846799db4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7deafc1cb1e1cdca6089c42f43b5705c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c71a226f22b232c494a53bec91e1abe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66f42864b11f1b73438f57089fb7851d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44d7c7ce2054261ac85459943f4fda90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/be4752ff8a1171f04ba38104e0ef7313/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f9e46de3f5ab952819df9386465c3299/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/46c4e94f2806bcfc29efb21a7901216b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9db5b7684c318de0e50fe365821ee18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/98a8c1c93a4eaacbf1fa0734476a8419/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/020f9013f36632c36240b35aa3b6c561/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfec231b0fd21703a32b785433173d82/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d60a6dfb55da294b4bad42bc401c2c7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:5:5-40
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:6:5-30
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:7:5-28
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:8:5-45
+supports-screens
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:10:3-14:35
+	android:largeScreens
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:12:7-34
+	android:smallScreens
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:10:21-48
+	android:normalScreens
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:11:7-35
+	android:xlargeScreens
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:13:7-35
+	android:anyDensity
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:14:7-32
+application
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:16:3-61:17
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ac66ef73db7ae390d699d78a3f39dce0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ac66ef73db7ae390d699d78a3f39dce0/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/b6f3411655d29c9c2c2c8724afa8bba8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/b6f3411655d29c9c2c2c8724afa8bba8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/de857cb22699d753daa81993524a01a5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/de857cb22699d753daa81993524a01a5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/480188cd77fddeb19cfff51551064654/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/480188cd77fddeb19cfff51551064654/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a4a59d57af174c14b80fbccaa2b9eb3e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a4a59d57af174c14b80fbccaa2b9eb3e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:22:5-26:19
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:19:5-25:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:31:5-20
+	android:label
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:19:7-39
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:19:18-44
+	tools:targetApi
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:22:7-33
+	android:icon
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:18:7-40
+	android:banner
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:21:7-44
+	android:theme
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:17:7-48
+	android:isGame
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:20:7-28
+activity#com.group13.augmentedView.UnityPlayerActivity
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:24:5-38:16
+	android:screenOrientation
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:26:9-47
+	android:label
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:25:9-41
+	android:launchMode
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:27:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:29:9-44
+	android:configChanges
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:28:9-190
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:30:9-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:32:7-35:23
+action#android.intent.action.MAIN
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:33:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:34:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:37:7-82
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:37:59-79
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:37:18-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:40:5-42:67
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:42:9-64
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:41:9-54
+meta-data#com.google.android.gms.version
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:43:5-45:65
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:45:9-62
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:44:9-54
+meta-data#unity.build-id
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:46:5-48:64
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:48:9-61
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:47:9-38
+meta-data#unity.splash-mode
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:49:5-51:29
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:51:9-26
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:50:9-41
+meta-data#unity.splash-enable
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:52:5-54:32
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:54:9-29
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:53:9-43
+meta-data#android.max_aspect
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:55:5-57:31
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:57:9-28
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:56:9-42
+meta-data#io.fabric.ApiKey
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:58:5-60:68
+	android:value
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:60:9-65
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:59:9-40
+uses-sdk
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:63:3-65:39
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:63:3-65:39
+MERGED from [com.android.support:design:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9fccc17493bf0af029ca8f7f14e4963d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9fccc17493bf0af029ca8f7f14e4963d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bd327ed63d89645f977abe91502911d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8bd327ed63d89645f977abe91502911d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ac66ef73db7ae390d699d78a3f39dce0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/ac66ef73db7ae390d699d78a3f39dce0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/b6f3411655d29c9c2c2c8724afa8bba8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/b6f3411655d29c9c2c2c8724afa8bba8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/de857cb22699d753daa81993524a01a5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/de857cb22699d753daa81993524a01a5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/480188cd77fddeb19cfff51551064654/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/480188cd77fddeb19cfff51551064654/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a4a59d57af174c14b80fbccaa2b9eb3e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a4a59d57af174c14b80fbccaa2b9eb3e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c4c1fecf2977c4f468083598ef9c4a11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d28589115c25a62ca7c0dda0ad19d24e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d28589115c25a62ca7c0dda0ad19d24e/AndroidManifest.xml:20:5-44
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72241c03225791d3441fa4d846799db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72241c03225791d3441fa4d846799db4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7deafc1cb1e1cdca6089c42f43b5705c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7deafc1cb1e1cdca6089c42f43b5705c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c71a226f22b232c494a53bec91e1abe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/c71a226f22b232c494a53bec91e1abe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66f42864b11f1b73438f57089fb7851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/66f42864b11f1b73438f57089fb7851d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44d7c7ce2054261ac85459943f4fda90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/44d7c7ce2054261ac85459943f4fda90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/be4752ff8a1171f04ba38104e0ef7313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/be4752ff8a1171f04ba38104e0ef7313/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f9e46de3f5ab952819df9386465c3299/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f9e46de3f5ab952819df9386465c3299/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/46c4e94f2806bcfc29efb21a7901216b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/46c4e94f2806bcfc29efb21a7901216b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9db5b7684c318de0e50fe365821ee18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c9db5b7684c318de0e50fe365821ee18/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/98a8c1c93a4eaacbf1fa0734476a8419/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/98a8c1c93a4eaacbf1fa0734476a8419/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/020f9013f36632c36240b35aa3b6c561/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/020f9013f36632c36240b35aa3b6c561/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfec231b0fd21703a32b785433173d82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfec231b0fd21703a32b785433173d82/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d60a6dfb55da294b4bad42bc401c2c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1d60a6dfb55da294b4bad42bc401c2c7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:63:3-65:39
+	android:targetSdkVersion
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:65:7-36
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+		INJECTED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:64:7-33
+uses-feature#0x00020000
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:66:3-52
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:66:17-49
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:28:9-32
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:67:3-65
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:24:5-67
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:14:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.2.aar/fabf3a9b340c8085db77bcf463dc46e7/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/beta-1.2.7.aar/d1ab8bdcbbaa3bf356e74edbeef57148/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/answers-1.4.1.aar/4de8b5d7130417a868d1b5d3bebac49c/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/fabric-1.4.2.aar/0f1eab672b4b1c34f56cb3bb76d924a5/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:67:20-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:68:3-73
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:68:20-71
+uses-permission#android.permission.CAMERA
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:69:3-63
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:69:20-60
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:70:3-79
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:70:20-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:71:3-77
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:71:20-74
+uses-feature#android.hardware.camera
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:72:3-74:34
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:74:7-31
+		MERGED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:74:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:73:7-45
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:75:3-77:34
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:77:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:76:7-55
+uses-feature#android.hardware.camera.front
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:78:3-80:34
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:80:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:79:7-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:81:3-83:36
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:17:5-81
+	android:maxSdkVersion
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:83:7-33
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:82:7-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:84:3-86:36
+	android:maxSdkVersion
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:86:7-33
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:85:7-62
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:87:3-89:34
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:89:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:88:7-50
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:90:3-92:34
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:92:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:91:7-61
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:93:3-95:34
+	android:required
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:95:7-31
+	android:name
+		ADDED from /Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/src/main/AndroidManifest.xml:94:7-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:23:5-79
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/485289662d19c79eab8844d427afefaf/AndroidManifest.xml:23:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5ccb4b7d9be01b78f057bd4d01b307c0/AndroidManifest.xml:24:13-79
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/ef9056b553ec8b5b4c9b0325769f26b3/AndroidManifest.xml:23:13-54
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.2] /Users/maximebeugoms/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.2.aar/70135861274abafbdfb02c2fcde3ad52/AndroidManifest.xml:13:13-75

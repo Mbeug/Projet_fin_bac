@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="musee_l" size="50.000000 66.666664" />
+    <ImageTarget name="sici" size="50.000000 37.500000" />
+    <ImageTarget name="stevin-batiment" size="100.000000 133.333328" />
+    <ImageTarget name="barb-auditoire" size="100.000000 75.000000" />
+    <ImageTarget name="auditoire-barb" size="100.000000 75.000000" />
+    <ImageTarget name="ingi-ucl" size="100.000000 133.333328" />
+    <ImageTarget name="ucl-ingi" size="100.000000 75.000000" />
+  </Tracking>
+</QCARConfig>

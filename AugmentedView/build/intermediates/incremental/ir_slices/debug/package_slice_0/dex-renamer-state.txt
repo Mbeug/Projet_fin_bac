@@ -1,0 +1,4 @@
+#Fri May 18 22:25:13 CEST 2018
+base.0=/Users/maximebeugoms/Documents/Travaux_ecole/2017-2018/Q2/LFSAB1509_projet/Projet/P4/groupe_13_AugmentedView/AugmentedView/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

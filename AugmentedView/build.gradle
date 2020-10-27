@@ -1,0 +1,96 @@
+buildscript {
+	repositories {
+		jcenter()
+		google()
+		maven { url "https://maven.google.com" }
+		maven { url 'https://maven.fabric.io/public' }
+	}
+
+	dependencies {
+		classpath 'com.android.tools.build:gradle:3.1.2'
+		//classpath 'com.android.tools.lint:lint-gradle:26.1.2'
+		classpath 'com.android.support:support-v4:27.1.1'
+		classpath 'com.android.support:design:27.1.1'
+		classpath 'com.google.android.gms:play-services-maps:15.0.1'
+		classpath 'io.fabric.tools:gradle:1.25.4'
+	}
+}
+
+allprojects {
+	repositories {
+		flatDir {
+			dirs 'libs'
+		}
+		google()
+		maven { url "https://maven.google.com" }
+	}
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+	maven { url 'https://maven.fabric.io/public' }
+}
+
+
+dependencies {
+	implementation 'com.android.support:support-v4:27.1.1'
+	implementation 'com.android.support:design:27.1.1'
+	implementation 'com.google.android.gms:play-services-maps:15.0.1'
+	implementation fileTree(dir: 'libs', include: ['*.jar'])
+	api 'com.android.support:appcompat-v7:27.1.1'
+	api 'com.android.support.constraint:constraint-layout:1.1.0'
+	api 'com.google.android.gms:play-services-places:15.0.1'
+	api 'com.google.android.gms:play-services-location:15.0.1'
+	implementation (name: 'VuforiaWrapper', ext:'aar')
+	implementation('com.crashlytics.sdk.android:crashlytics:2.9.2@aar') {
+		transitive = true
+	}
+}
+
+android {
+	compileSdkVersion 27
+	buildToolsVersion '27.0.3'
+
+	defaultConfig {
+		targetSdkVersion 27
+		applicationId 'com.group13.augmentedView'
+	}
+
+    signingConfigs {
+        release {
+            storeFile file("keyStore.keystore")
+            storePassword "zelie131313"
+            keyAlias "key0"
+            keyPassword "zelie131313"
+            v2SigningEnabled false
+        }
+    }
+
+	lintOptions {
+        checkReleaseBuilds false
+		abortOnError false
+	}
+
+	aaptOptions {
+		noCompress '.unity3d', '.ress', '.resource', '.obb','vuforia/targets.dat','vuforia/targets.xml','vuforia/vuforiadatabase.dat','vuforia/vuforiadatabase.xml','vuforia/vuforiamars_images.dat','vuforia/vuforiamars_images.xml','vuforia/vuforiamars_modeltarget.dat','vuforia/vuforiamars_modeltarget.xml','vuforia/vuforiamars_object_ot.dat','vuforia/vuforiamars_object_ot.xml','vuforia/vuforiamars_vumark.dat','vuforia/vuforiamars_vumark.xml'
+	}
+
+
+	buildTypes {
+		debug {
+			minifyEnabled false
+			useProguard false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-unity.txt'
+			jniDebuggable true
+		}
+		release {
+			minifyEnabled false
+			useProguard false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-unity.txt'
+			signingConfig signingConfigs.debug
+		}
+	}
+
+}
